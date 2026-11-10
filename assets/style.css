@@ -40,3 +40,6 @@ footer { padding-block: 1.5rem; border-top: 1px solid #e1e6e9; }
 .guide-settings { margin: 1.5rem 0; }
 .guide-settings dt { font-weight: 700; margin-top: 1.25rem; }
 .guide-settings dd { margin: .25rem 0 0; }
+
+/* 使い方ページの全スクリーンショットに共通のフレーム。 */
+.guide-screen--framed { border: 6px solid #242424; border-radius: 32px; overflow: hidden; background: #242424; box-shadow: 0 4px 12px rgb(0 0 0 / 8%); }
