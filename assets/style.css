@@ -48,3 +48,7 @@ footer { padding-block: 1.5rem; border-top: 1px solid #e1e6e9; }
 .store-download { margin: 1.5rem 0; padding: 12px; }
 .app-store-link { display: inline-block; vertical-align: top; }
 .app-store-link img { display: block; height: 48px; width: auto; }
+
+/* サポートページのアプリ名とアイコン。 */
+.app-heading { display: flex; align-items: center; gap: .75rem; }
+.app-heading-icon { display: block; flex: 0 0 auto; width: 3.5rem; height: 3.5rem; border-radius: .8rem; }
